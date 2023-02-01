@@ -30,6 +30,9 @@ Gruntwork cofounder Yevgeniy (Jim) Brikman takes you through code examples that 
 
 These books include Terraform topics, but are not entirely about HashiCorp Terraform.
 
+[Infrastructure as Code, Patterns and Practices With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
+
+<img src="https://images.manning.com/360/480/resize/book/2/9951cba-7a0f-4b30-9412-b19ac3bbfb67/Wang-HI.png" width="120px"/>
 
 
 **Resources**
