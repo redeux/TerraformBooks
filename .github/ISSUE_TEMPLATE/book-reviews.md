@@ -24,4 +24,4 @@ Leave a comment on this issue with your review. If you’d like to leave a long 
 
 Reviews such as “I liked this book” or “I didn’t like this book” without further details will be removed. If you’d like to leave this type of review, please use the quick review option instead.
 
-Please follow the [reviewing guidelines](REVIEWING.md).
+Please follow the [reviewing guidelines](https://github.com/redeux/TerraformBooks/blob/main/REVIEWING.md).
